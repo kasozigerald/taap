@@ -168,7 +168,7 @@ $mail->Body    = $htmlContent;
 				<div class="d-table-cell">
 					<div class="container-fluid">
 						<div class="row align-items-center">
-							<div class="col-lg-7">
+							<div class="col-md-7">
 								<div class="consulting-banner-content">
 									<h1>AELS Technical Assistance And Acceleration Program - AELS TAAP</h1>
 									<p>TAAP is focused on building both internal organizational capability and offer project support for <span style="color:#f5e942; font-size: 2.3rem;">Entrepreneurs</span>  and <span style="color:#f5e942; font-size: 2.3rem;">Enterprise Support Organizations<span style="font-size: 2rem;">-ESOs or intermediaries</span></span>  in Uganda.</p>
@@ -177,9 +177,9 @@ $mail->Body    = $htmlContent;
                                 <div class="response text-danger mt-3 p-3"></div>
 							</div>
 		
-							<div class="col-lg-5">
+							<div class="col-md-5">
 								<div class="consulting-banner-img">
-									<img src="assets/img/consulting/pt3.jpeg" alt="Image">
+									<img class="height: auto" src="assets/img/consulting/pt3.jpeg" alt="Image">
 
 									<div class="video-button">
 										<a href="https://www.youtube.com/watch?v=TdSA7gkVYU0" class="video-btn popup-youtube">

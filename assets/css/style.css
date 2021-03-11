@@ -2650,6 +2650,38 @@ Feature Area Style
   background-image: url(../img/consulting/feature/feature-bg-3.jpg);
 }
 
+.single-consulting-feature.bg-4 {
+  background-image: url(../img/consulting/feature/feature-bg-3.jpg);
+}
+
+.single-consulting-feature.bg-5 {
+  background-image: url(../img/consulting/feature/feature-bg-3.jpg);
+}
+
+.single-consulting-feature.bg-6 {
+  background-image: url(../img/consulting/feature/feature-bg-3.jpg);
+}
+
+.single-consulting-feature.bg-7 {
+  background-image: url(../img/consulting/feature/feature-bg-3.jpg);
+}
+
+.single-consulting-feature.bg-8 {
+  background-image: url(../img/consulting/feature/feature-bg-3.jpg);
+}
+
+.single-consulting-feature.bg-9 {
+  background-image: url(../img/consulting/feature/feature-bg-3.jpg);
+}
+
+.single-consulting-feature.bg-10 {
+  background-image: url(../img/consulting/feature/feature-bg-3.jpg);
+}
+
+.single-consulting-feature.bg-11 {
+  background-image: url(../img/consulting/feature/feature-bg-3.jpg);
+}
+
 .single-consulting-feature::before {
   content: "";
   position: absolute;
